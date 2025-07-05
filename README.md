@@ -56,3 +56,5 @@ ChatApp/
     ├── style.css     # Styling
     └── script.js     # Client-side JavaScript
 ```
+![Untitled design](https://github.com/user-attachments/assets/2eef992c-91b2-47d9-bd41-743094143e70)
+

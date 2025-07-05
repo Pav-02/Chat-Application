@@ -1,11 +1,6 @@
                                                                CHAT APPLICATION
-                                                               
 
-
-
-
-
-
+Company - CodTech IT Solutions, Name - N.C.Pavani, Intern ID - CT06DF2606, Domain - Full Stack, Duration - 6 weeks, Mentor - Neela Santhosh                                                               
 # Real-Time Chat Application
 
 A live chat application built with Node.js, Express, and Socket.IO for real-time communication.

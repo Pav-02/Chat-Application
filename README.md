@@ -1,3 +1,11 @@
+                                                               CHAT APPLICATION
+                                                               
+
+
+
+
+
+
 # Real-Time Chat Application
 
 A live chat application built with Node.js, Express, and Socket.IO for real-time communication.
